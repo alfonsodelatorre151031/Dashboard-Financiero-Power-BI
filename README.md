@@ -15,6 +15,19 @@ Analizar el comportamiento de los movimientos financieros y facilitar la identif
 - DAX
 - Data Visualization
 
+## Metodología
+
+Los datos fueron transformados mediante Power Query y posteriormente se desarrollaron medidas y visualizaciones en Power BI para analizar ingresos, egresos, impuestos y utilidad.
+
+## Habilidades demostradas
+
+- Transformación y limpieza de datos
+- Creación de KPIs
+- Análisis temporal
+- Modelado de datos
+- Medidas DAX
+- Visualización y comunicación de resultados
+
 ##  Principales KPIs
 
 - Pagos recibidos: $24.1 M
